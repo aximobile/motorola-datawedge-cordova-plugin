@@ -3,15 +3,15 @@
 	  
 	<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.onestop.cordova.datawedge"
+    id="be.axi.cordova.datawedge"
     version="1.0.1">
 	  
     <name>Motorola Cordova Plugin</name>
     <description>You can use this to interface with the motorola datawedge service.</description>
     <license>MIT</license>
 
-    <repo>https://github.com/DanielHaddon/motorola-datawedge-cordova-plugin</repo>
-    <issue>https://github.com/DanielHaddon/motorola-datawedge-cordova-plugin/issues</issue>
+    <repo>https://github.com/aximobile/motorola-datawedge-cordova-plugin</repo>
+    <issue>https://github.com/aximobile/motorola-datawedge-cordova-plugin/issues</issue>
 	
     <engines>
         <engine name="cordova" version=">=3.0.0" />
