@@ -1,0 +1,49 @@
+{
+  "_from": "motorola-datawedge-cordova-plugin",
+  "_id": "motorola-datawedge-cordova-plugin@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-QuZZfRUtE3K+ZNRjzqvnSIbTnhg=",
+  "_location": "/motorola-datawedge-cordova-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "motorola-datawedge-cordova-plugin",
+    "name": "motorola-datawedge-cordova-plugin",
+    "escapedName": "motorola-datawedge-cordova-plugin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/motorola-datawedge-cordova-plugin/-/motorola-datawedge-cordova-plugin-1.0.0.tgz",
+  "_shasum": "42e6597d152d1372be64d463ceabe74886d39e18",
+  "_spec": "motorola-datawedge-cordova-plugin",
+  "_where": "C:\\work\\Klanten\\MRC\\mrc_scanning_frontend\\node_modules",
+  "author": {
+    "name": "Daniel Haddon",
+    "email": "Me@danielhaddon.com",
+    "url": "http://www.DanielHaddon.com"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielHaddon/motorola-datawedge-cordova-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova Motorola DataWedge Plugin\r ============",
+  "homepage": "https://github.com/DanielHaddon/motorola-datawedge-cordova-plugin#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "motorola-datawedge-cordova-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielHaddon/motorola-datawedge-cordova-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
